@@ -1,5 +1,6 @@
-<code>Hello.md</code> is a tutorial about using the 'markdown' markup language in Visual Studio Code.  
-It describes markdown, and is also compiled in markdown.  
+<code>Hello.md</code> is a tutorial about using the 'markdown' markup language, where markup is being used for documentation.  
+The tutorial describes markdown, and is also compiled in markdown.  
+You can use it to format documentation on Visual Studio Code, GitHub, and other platforms.  
 You can download <code>Hello.md</code> and edit directly in Visual Studio Code.  
 - Click on <code>Hello.md</code> at the top of this page
 - Select 'Download raw file' from the tools on the right of the page
