@@ -1,3 +1,3 @@
-Upload of the markdown tutorial WIP file "Hello.md" on GitHub.✨  
-'Hello.md' is a separate .md file edited in Visual Studio Code.  
-Click on the 'Hello' document to view the tutorial!
+'Hello.md' is a .md document.  
+You can download 'Hello.md' and read or edit in a program like Visueal Studio Code.  
+Or click on the 'Hello' document to view the tutorial on your browser!
