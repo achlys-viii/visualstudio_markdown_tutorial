@@ -192,8 +192,4 @@ Do: <code>snippet</code>
 
 # HTML Integration
 
---- 
-
-Let's connect!
-
-[LinkedIn](https://www.linkedin.com/in/despina-lazaropoulou-gr/)
+---
